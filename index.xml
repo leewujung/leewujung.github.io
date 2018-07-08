@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Wu-Jung Lee</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -43,7 +43,7 @@
     <item>
       <title>Asymmetric multi-frequency biosonar beam pattern of tongue-clicking bat, Rousettus aegyptiacus. </title>
       <link>https://leewujung.github.io/talk/201505_asa_slc_rousettus_bp/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
       <guid>https://leewujung.github.io/talk/201505_asa_slc_rousettus_bp/</guid>
       <description></description>
@@ -52,7 +52,7 @@
     <item>
       <title>Biosonar radiation field on the forehead of a Risso’s dolphin during prey capture</title>
       <link>https://leewujung.github.io/talk/201611_asa_hawaii_risso/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
       <guid>https://leewujung.github.io/talk/201611_asa_hawaii_risso/</guid>
       <description></description>
@@ -61,7 +61,7 @@
     <item>
       <title>Data-driven decomposition of ocean observatory echosounder time series for ecological insights</title>
       <link>https://leewujung.github.io/talk/201802_osm_ooi_nmf/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
       <guid>https://leewujung.github.io/talk/201802_osm_ooi_nmf/</guid>
       <description></description>
@@ -70,7 +70,7 @@
     <item>
       <title>Exploring model sensitivity in Bayesian inversion of zooplankton sonar echoes</title>
       <link>https://leewujung.github.io/talk/201803_wgfast_seattle/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
       <guid>https://leewujung.github.io/talk/201803_wgfast_seattle/</guid>
       <description></description>
@@ -79,7 +79,7 @@
     <item>
       <title>I wonder how animals can do it so well: An ongoing detour to build better sonar, enabled by the Hunt fellowship</title>
       <link>https://leewujung.github.io/talk/201712_asa_nola_hunt/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
       <guid>https://leewujung.github.io/talk/201712_asa_nola_hunt/</guid>
       <description></description>
@@ -88,7 +88,7 @@
     <item>
       <title>Mid-frequency clutter and reverberation characteristics of fish in a shallow ocean waveguide</title>
       <link>https://leewujung.github.io/talk/201611_asa_hawaii_trex_fish/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
       <guid>https://leewujung.github.io/talk/201611_asa_hawaii_trex_fish/</guid>
       <description></description>
@@ -97,7 +97,7 @@
     <item>
       <title>Seeing through sound: the echolocation of bats</title>
       <link>https://leewujung.github.io/talk/201805_uw_wildlife_seminar/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
       <guid>https://leewujung.github.io/talk/201805_uw_wildlife_seminar/</guid>
       <description></description>
@@ -125,7 +125,7 @@
     <item>
       <title>Getting started with the Academic framework for Hugo</title>
       <link>https://leewujung.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://leewujung.github.io/post/getting-started/</guid>
       <description>
@@ -415,7 +415,7 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     <item>
       <title>Customizing the homepage with widgets</title>
       <link>https://leewujung.github.io/post/widgets/</link>
-      <pubDate>Tue, 19 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://leewujung.github.io/post/widgets/</guid>
       <description>
@@ -483,7 +483,7 @@ $ git log --pretty=oneline --abbrev-commit --decorate HEAD..upstream/master
     <item>
       <title>Managing content</title>
       <link>https://leewujung.github.io/post/managing-content/</link>
-      <pubDate>Mon, 18 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://leewujung.github.io/post/managing-content/</guid>
       <description>&lt;p&gt;This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, news/blog articles, and widget pages. After you have read this guide about creating and managing content, you may also be interested to learn about &lt;a href=&#34;https://leewujung.github.io/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Markdown, LaTeX, and Shortcodes&lt;/a&gt;.&lt;/p&gt;
