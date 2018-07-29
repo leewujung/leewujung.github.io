@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Wu-Jung Lee</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://leewujung.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Tongue-driven sonar beam steering by a lingual-echolocating fruit bat</title>
@@ -16,8 +18,7 @@
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://leewujung.github.io/publication/2017-lee-etal-plosbio-rousettus-bp/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -26,8 +27,7 @@
       <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://leewujung.github.io/publication/2016-lee-moss-jasa-luna-moth/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -36,8 +36,7 @@
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://leewujung.github.io/publication/2016-warnecke-etal-frontier-echo-flow/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -46,8 +45,7 @@
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       
       <guid>https://leewujung.github.io/publication/2015-lee-stanton-joe-broadband/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -56,8 +54,7 @@
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>https://leewujung.github.io/publication/2015-danilovich-etal-currbio-rousettus-light/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -66,8 +63,7 @@
       <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
       
       <guid>https://leewujung.github.io/publication/2014-lee-stanton-joe-mixed/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -76,8 +72,7 @@
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>https://leewujung.github.io/publication/2012-lee-etal-jasa-squid/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -86,8 +81,7 @@
       <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
       
       <guid>https://leewujung.github.io/publication/2010-mooney-etal-squid-sedation/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -96,8 +90,7 @@
       <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
       
       <guid>https://leewujung.github.io/publication/2010-au-etal-jasa-tursiops-suctioncup/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

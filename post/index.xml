@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Wu-Jung Lee</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://leewujung.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Scooping up zooplankton from the ocean</title>
@@ -16,46 +18,7 @@
       <pubDate>Thu, 26 Jul 2018 00:00:00 -0700</pubDate>
       
       <guid>https://leewujung.github.io/2018/07/26/scooping-up-zooplankton-from-the-ocean/</guid>
-      <description>&lt;p&gt;This is my second time sailing with the OOI &lt;a href=&#34;https://interactiveoceans.washington.edu/story/The_Regional_Cabled_Array&#34; target=&#34;_blank&#34;&gt;Cabled Array&lt;/a&gt; team from UW APL and the School of Oceanography, with a mission to scoop up some zooplankton from the ocean. These zooplankton samples will serve as verification data &amp;ndash; or “ground truth” &amp;ndash; for the cabled Bio-acoustic Sonars (&lt;a href=&#34;http://oceanobservatories.org/instrument-series/zplscb/&#34; target=&#34;_blank&#34;&gt;ZPLSC-B&lt;/a&gt;) on the OOI Endurance Array. On Leg 4 of &lt;a href=&#34;https://interactiveoceans.washington.edu/story/VISIONS_18&#34; target=&#34;_blank&#34;&gt;VISIONS&amp;rsquo;18&lt;/a&gt;, we only had time to visit the &lt;a href=&#34;http://oceanobservatories.org/site/ce04osps/&#34; target=&#34;_blank&#34;&gt;Oregon offshore cabled site&lt;/a&gt;, so that&amp;rsquo;s where we towed.&lt;/p&gt;
-
-&lt;!-- Sonar was originally [an acronym]((https://en.wikipedia.org/wiki/Sonar)) for &#34;**SO**und **N**avigation **A**nd **R**anging&#34;, but nowadays this term is widely understood since sonar systems are everywhere in our lives, like those sensors on cars that remind us when a wall, a pole, or a car is coming too close. It&#39;s a form a remote sensing, in which we send out probing signals and analyze the returning echoes to observe and understand the environment. Since it is remote, most of the time we don&#39;t know exactly what is producing the echoes, and hence the need for *ground truth* using real samples --&gt;
-
-&lt;p&gt;Onboard &lt;a href=&#34;https://scripps.ucsd.edu/ships/revelle&#34; target=&#34;_blank&#34;&gt;R/V Revelle&lt;/a&gt;, we use a &lt;a href=&#34;http://openseas.com/portfolio/tucker-trawl/&#34; target=&#34;_blank&#34;&gt;Tucker trawl&lt;/a&gt; to collect zooplankton samples from the ocean. It is an entirely mechanical net system, consisting of 4 horizontal metal bars and 2 vertical flexible wires that jointly function as the frame for net openings, and 3 nets with cod-ends attached. Below was the net right before it went into water:
-&lt;img src=&#34;https://leewujung.github.io/img/blog_img/2018-07-26-scoop-zoop/NetTow_20180723_144502.JPG&#34; alt=&#34;Tucker trawl&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The operation of Tucker trawl is quite simple:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;You hook all 3 nets to the metal bars and lower the net into water&lt;/li&gt;
-&lt;li&gt;When the net is at the first target depth, you send a &lt;em&gt;messenger&lt;/em&gt; &amp;ndash; which is heavy metal block &amp;ndash; down the wire to drop the first bar. This bar closes the bottom net and opens up the middle net&lt;/li&gt;
-&lt;li&gt;When the net is at the next target depth, you send another messenger down to drop the second bar. This bar closes the middle net and open up the top net; usually this is also the time to start pulling the net back.&lt;/li&gt;
-&lt;li&gt;Once the net is back on deck, you rinse down everything in the net to the cod-end and preserve the samples in jars filled with formalin or alcohol.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Tucker trawl is nice, because the messengers and the dropping bars give you the flexibility to do &lt;em&gt;depth-stratified sampling&lt;/em&gt; of the water column.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Well, that&amp;rsquo;s pretty much how it went, just every step took a bit of time to complete, and it&amp;rsquo;s definitely NOT a one-person job!
-&lt;img src=&#34;https://leewujung.github.io/img/blog_img/2018-07-26-scoop-zoop/NetTow_20180723_141404.JPG&#34; alt=&#34;Putting the Tucker trawl together&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Onboard Revelle, I tapped into the raw beam data of the &lt;a href=&#34;https://en.wikipedia.org/wiki/Acoustic_Doppler_current_profiler&#34; target=&#34;_blank&#34;&gt;ADCP&lt;/a&gt; (&lt;strong&gt;A&lt;/strong&gt;coustic &lt;strong&gt;D&lt;/strong&gt;oppler &lt;strong&gt;C&lt;/strong&gt;urrent &lt;strong&gt;P&lt;/strong&gt;rofiler) to get a sense of where things are in the water column for the tow. Thanks to Skip who suggested this when I freaked out last year after finding out there was no echosounder to tell me where the critters would be in the water column. It works very well!&lt;/p&gt;
-
-&lt;p&gt;In the figure below I plotted the ADCP &lt;em&gt;raw beam&lt;/em&gt; returns during the first tow on July 21, 2018 along with the time-depth trajectory of the net. On the echogram, the brighter regions are where most of the animals concentrated. You can see that our tow was right up against the time when the diel vertical migration (DVM) happened. This increased the variability in the samples quite a bit, since different animals are somewhat lumped together during DVM and during the night, but at least we got something!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://leewujung.github.io/img/blog_img/2018-07-26-scoop-zoop/2018-07-21-adcp-tow.png&#34; alt=&#34;Tucker trawl trajectory on the 2018-07-21 tow&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;** To see how this plot was generated, check my work-in-progress &lt;a href=&#34;https://github.com/leewujung/adcp2Sv/blob/master/RR1812_net_tow_20180721.ipynb&#34; target=&#34;_blank&#34;&gt;notebook&lt;/a&gt; that hopefully will get updated in the coming days.&lt;/p&gt;
-
-&lt;p&gt;The net trajectory seems quite nice, except for that the second messenger didn&amp;rsquo;t successfully trigger! So we ended up with a nice sampling of the top layer from the bottom net, everything else in the middle net, and pretty much nothing from the top net (which didn&amp;rsquo;t open). Nevertheless, from the samples, it seemed that the deeper layer was dominated by adult krill and the surface layer had more juveniles.&lt;/p&gt;
-
-&lt;p&gt;The second time around on July 23, 2018, we fixed the trigger mechanism and the tow was nicely stratified, but there wasn&amp;rsquo;t a 2-layer structure&amp;hellip;! even though we were at very similar location as the first time.&lt;/p&gt;
-
-&lt;p&gt;Anyways, we did scoop up quite a bit of animals from the two tows! We have lots of juvenile and adult krill, lots of copepods, lots of amphipods, and some ctenophores, jellyfish, and all kinds of fish larvae. All the samples are now submerged in formalin-filled jars waiting to be analyzed in more detail once we get back to shore. I am excited to check out the OOI Bio-acoustic Sonar recording during the time of the tows and learn more about the ecosystem here!&lt;/p&gt;
-
-&lt;p&gt;Finally, to make up for the lack of bizarre-looking animals in the catches this year, here&amp;rsquo;s a hyperiid amphipod (genus &lt;a href=&#34;https://ocean.si.edu/ocean-life/invertebrates/cystisoma&#34; target=&#34;_blank&#34;&gt;Cystisoma&lt;/a&gt;) that ended up in our net last year. Note the diameter of the white cap underneath is 11cm. This thing was huge!
-&lt;img src=&#34;https://leewujung.github.io/img/blog_img/2018-07-26-scoop-zoop/IMG_3483.JPG&#34; alt=&#34;A hyperiid amphipod we caught in 2017&#34; /&gt;&lt;/p&gt;
-</description>
+      <description>This is my second time sailing with the OOI Cabled Array team from UW APL and the School of Oceanography, with a mission to scoop up some zooplankton from the ocean. These zooplankton samples will serve as verification data &amp;ndash; or “ground truth” &amp;ndash; for the cabled Bio-acoustic Sonars (ZPLSC-B) on the OOI Endurance Array. On Leg 4 of VISIONS&amp;rsquo;18, we only had time to visit the Oregon offshore cabled site, so that&amp;rsquo;s where we towed.</description>
     </item>
     
   </channel>

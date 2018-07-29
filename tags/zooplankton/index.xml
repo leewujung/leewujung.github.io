@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zooplankton on Wu-Jung Lee @APL-UW</title>
+    <link>https://leewujung.github.io/tags/zooplankton/</link>
+    <description>Recent content in Zooplankton on Wu-Jung Lee @APL-UW</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Wu-Jung Lee</copyright>
+    <lastBuildDate>Thu, 26 Jul 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://leewujung.github.io/tags/zooplankton/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scooping up zooplankton from the ocean</title>
+      <link>https://leewujung.github.io/2018/07/26/scooping-up-zooplankton-from-the-ocean/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://leewujung.github.io/2018/07/26/scooping-up-zooplankton-from-the-ocean/</guid>
+      <description>This is my second time sailing with the OOI Cabled Array team from UW APL and the School of Oceanography, with a mission to scoop up some zooplankton from the ocean. These zooplankton samples will serve as verification data &amp;ndash; or “ground truth” &amp;ndash; for the cabled Bio-acoustic Sonars (ZPLSC-B) on the OOI Endurance Array. On Leg 4 of VISIONS&amp;rsquo;18, we only had time to visit the Oregon offshore cabled site, so that&amp;rsquo;s where we towed.</description>
+    </item>
+    
+  </channel>
+</rss>
