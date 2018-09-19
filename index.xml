@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Macroscopic observations of diel fish movements around a shallow water artificial reef using a mid-frequency horizontal-looking sonar</title>
+      <link>https://leewujung.github.io/publication/2018-lee-etal-jasa-trex-fish/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://leewujung.github.io/publication/2018-lee-etal-jasa-trex-fish/</guid>
+      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Watching a solar eclipse using OOI sonar</title>
       <link>https://leewujung.github.io/2018/07/30/watching-a-solar-eclipse-using-ooi-sonar/</link>
       <pubDate>Mon, 30 Jul 2018 00:00:00 -0700</pubDate>
@@ -277,16 +287,6 @@
       
       <guid>https://leewujung.github.io/project/example-external-project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamic echo information guides flight in the big brown bat</title>
-      <link>https://leewujung.github.io/publication/2016-warnecke-etal-frontier-echo-flow/</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://leewujung.github.io/publication/2016-warnecke-etal-frontier-echo-flow/</guid>
-      <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
-</description>
     </item>
     
   </channel>
