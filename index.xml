@@ -208,6 +208,15 @@
     </item>
     
     <item>
+      <title>Exploring matrix and tensor factorization for discovering latent structures in large echosounder data sets</title>
+      <link>https://leewujung.github.io/talk/201811_asa_victoria_tensor/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://leewujung.github.io/talk/201811_asa_victoria_tensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Asymmetric multi-frequency biosonar beam pattern of tongue-clicking bat, Rousettus aegyptiacus. </title>
       <link>https://leewujung.github.io/talk/201505_asa_slc_rousettus_bp/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
@@ -278,15 +287,6 @@
       <guid>https://leewujung.github.io/publication/2016-lee-moss-jasa-luna-moth/</guid>
       <description>&lt;!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://leewujung.github.io/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://leewujung.github.io/project/example-external-project/</guid>
-      <description></description>
     </item>
     
   </channel>
