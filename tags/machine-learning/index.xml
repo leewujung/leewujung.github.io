@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Wu-Jung Lee</copyright>
-    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://leewujung.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>ASA/CAA special session: Machine learning and data science in ocean acoustics</title>
       <link>https://leewujung.github.io/2018/11/01/asa/caa-special-session-machine-learning-and-data-science-in-ocean-acoustics/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
       
       <guid>https://leewujung.github.io/2018/11/01/asa/caa-special-session-machine-learning-and-data-science-in-ocean-acoustics/</guid>
       <description>As nerve-racking as it is to count down on the time to finish my talk, I am super excited for the joint ASA/CAA meeting next week in Victoria, BC. In addition to giving a talk on mining large echosounder data sets, I will be co-chairing a special session 2aAO+2pAO: Machine Learning and Data Science Approaches in Ocean Acoustics on Tuesday Nov 6. The session is co-sponsored by multiple technical committees and follows immediately from the more general 1aSP+1pSP: Machine Learning for Acoustic Applications on Monday.</description>

@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Wu-Jung Lee</copyright>
-    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 11 Nov 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://leewujung.github.io/tags/caa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Open-Source Ocean Acoustics ([OSOceanAcoustics](github.com/OSOceanAcoustics)) -- will it work?</title>
+      <link>https://leewujung.github.io/2018/11/11/open-source-ocean-acoustics-osoceanacousticsgithub.com/osoceanacoustics----will-it-work/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://leewujung.github.io/2018/11/11/open-source-ocean-acoustics-osoceanacousticsgithub.com/osoceanacoustics----will-it-work/</guid>
+      <description>I set up the GitHub organization OSOceanAcoustics with a few acousticians during Oceanhackweek this past summer. It is a new thing to the ocean acoustics community: not the open source aspect &amp;ndash; the community actually has been open for a very long time &amp;ndash; but the mechanics of it. The resources are very scattered around on the internet, and even if you found it, most of the materials do not have the type of documentation support or version control compared to code from many other fields.</description>
+    </item>
+    
+    <item>
       <title>ASA/CAA special session: Machine learning and data science in ocean acoustics</title>
       <link>https://leewujung.github.io/2018/11/01/asa/caa-special-session-machine-learning-and-data-science-in-ocean-acoustics/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
       
       <guid>https://leewujung.github.io/2018/11/01/asa/caa-special-session-machine-learning-and-data-science-in-ocean-acoustics/</guid>
       <description>As nerve-racking as it is to count down on the time to finish my talk, I am super excited for the joint ASA/CAA meeting next week in Victoria, BC. In addition to giving a talk on mining large echosounder data sets, I will be co-chairing a special session 2aAO+2pAO: Machine Learning and Data Science Approaches in Ocean Acoustics on Tuesday Nov 6. The session is co-sponsored by multiple technical committees and follows immediately from the more general 1aSP+1pSP: Machine Learning for Acoustic Applications on Monday.</description>
