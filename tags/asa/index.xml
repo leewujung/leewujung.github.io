@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Wu-Jung Lee</copyright>
-    <lastBuildDate>Sun, 11 Nov 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://leewujung.github.io/tags/asa/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Open-Source Ocean Acoustics ([OSOceanAcoustics](github.com/OSOceanAcoustics)) -- will it work?</title>
-      <link>https://leewujung.github.io/2018/11/11/open-source-ocean-acoustics-osoceanacousticsgithub.com/osoceanacoustics----will-it-work/</link>
-      <pubDate>Sun, 11 Nov 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://leewujung.github.io/2018/11/11/open-source-ocean-acoustics-osoceanacousticsgithub.com/osoceanacoustics----will-it-work/</guid>
-      <description>I set up the GitHub organization OSOceanAcoustics with a few acousticians during Oceanhackweek this past summer. It is a new thing to the ocean acoustics community: not the open source aspect &amp;ndash; the community actually has been open for a very long time &amp;ndash; but the mechanics of it. The resources are very scattered around on the internet, and even if you found it, most of the materials do not have the type of documentation support or version control compared to code from many other fields.</description>
-    </item>
     
     <item>
       <title>ASA/CAA special session: Machine learning and data science in ocean acoustics</title>
