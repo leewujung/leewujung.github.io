@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Wu-Jung Lee</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -23,7 +23,7 @@
     <item>
       <title>ASA/CAA special session: Machine learning and data science in ocean acoustics</title>
       <link>https://leewujung.github.io/2018/11/01/asa/caa-special-session-machine-learning-and-data-science-in-ocean-acoustics/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 -0400</pubDate>
       
       <guid>https://leewujung.github.io/2018/11/01/asa/caa-special-session-machine-learning-and-data-science-in-ocean-acoustics/</guid>
       <description>&lt;p&gt;As nerve-racking as it is to count down on the time to finish my talk, I am super excited for the joint ASA/CAA meeting next week in Victoria, BC. In addition to giving a talk on &lt;a href=&#34;https://asa.scitation.org/doi/10.1121/1.5067736&#34; target=&#34;_blank&#34;&gt;mining large echosounder data sets&lt;/a&gt;, I will be co-chairing a special session &lt;strong&gt;2aAO+2pAO: Machine Learning and Data Science Approaches in Ocean Acoustics&lt;/strong&gt; on Tuesday Nov 6. The session is co-sponsored by multiple &lt;a href=&#34;https://exploresound.org/explore-sound-home/asa-community/technical-committees/&#34; target=&#34;_blank&#34;&gt;technical committees&lt;/a&gt; and follows immediately from the more general &lt;strong&gt;1aSP+1pSP: Machine Learning for Acoustic Applications&lt;/strong&gt; on Monday.&lt;/p&gt;
@@ -112,7 +112,7 @@ Towers, Scott Veirs, Ricard Marxer, Pascale Giraudet, James Pilkinton, Val Veirs
     <item>
       <title>Watching a solar eclipse using OOI sonar</title>
       <link>https://leewujung.github.io/2018/07/30/watching-a-solar-eclipse-using-ooi-sonar/</link>
-      <pubDate>Mon, 30 Jul 2018 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 -0400</pubDate>
       
       <guid>https://leewujung.github.io/2018/07/30/watching-a-solar-eclipse-using-ooi-sonar/</guid>
       <description>&lt;p&gt;This is something I wrote in 2017 right after coming back from my first trip with the OOI cabled array team. Didn&amp;rsquo;t have the website up then and things got busy, so I forgot about it&amp;hellip; 😱&lt;/p&gt;
@@ -170,7 +170,7 @@ Towers, Scott Veirs, Ricard Marxer, Pascale Giraudet, James Pilkinton, Val Veirs
     <item>
       <title>Scooping up zooplankton from the ocean</title>
       <link>https://leewujung.github.io/2018/07/27/scooping-up-zooplankton-from-the-ocean/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
       
       <guid>https://leewujung.github.io/2018/07/27/scooping-up-zooplankton-from-the-ocean/</guid>
       <description>&lt;p&gt;Disclaimer: this is a duplication of &lt;a href=&#34;https://interactiveoceans.washington.edu/story/Scooping_Up_Zooplankton_From_The_Ocean&#34; target=&#34;_blank&#34;&gt;this&lt;/a&gt; on the VISIONS&amp;rsquo;18 website.&lt;/p&gt;
@@ -299,7 +299,7 @@ Towers, Scott Veirs, Ricard Marxer, Pascale Giraudet, James Pilkinton, Val Veirs
     <item>
       <title>Dissecting the closed-loop feedback in animal echolocation</title>
       <link>https://leewujung.github.io/talk/201903_uwin_seminar/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0400</pubDate>
       
       <guid>https://leewujung.github.io/talk/201903_uwin_seminar/</guid>
       <description></description>
@@ -308,7 +308,7 @@ Towers, Scott Veirs, Ricard Marxer, Pascale Giraudet, James Pilkinton, Val Veirs
     <item>
       <title>Exploring matrix and tensor factorization for discovering latent structures in large echosounder data sets</title>
       <link>https://leewujung.github.io/talk/201811_asa_victoria_tensor/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0400</pubDate>
       
       <guid>https://leewujung.github.io/talk/201811_asa_victoria_tensor/</guid>
       <description></description>
@@ -317,7 +317,7 @@ Towers, Scott Veirs, Ricard Marxer, Pascale Giraudet, James Pilkinton, Val Veirs
     <item>
       <title>echopype: enhancing the interoperability and scalability of ocean sonar data processing for biological information,</title>
       <link>https://leewujung.github.io/talk/201907_scipy_echopype/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0400</pubDate>
       
       <guid>https://leewujung.github.io/talk/201907_scipy_echopype/</guid>
       <description></description>
@@ -326,7 +326,7 @@ Towers, Scott Veirs, Ricard Marxer, Pascale Giraudet, James Pilkinton, Val Veirs
     <item>
       <title>Asymmetric multi-frequency biosonar beam pattern of tongue-clicking bat, Rousettus aegyptiacus. </title>
       <link>https://leewujung.github.io/talk/201505_asa_slc_rousettus_bp/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://leewujung.github.io/talk/201505_asa_slc_rousettus_bp/</guid>
       <description></description>
@@ -335,7 +335,7 @@ Towers, Scott Veirs, Ricard Marxer, Pascale Giraudet, James Pilkinton, Val Veirs
     <item>
       <title>Biosonar radiation field on the forehead of a Risso’s dolphin during prey capture</title>
       <link>https://leewujung.github.io/talk/201611_asa_hawaii_risso/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://leewujung.github.io/talk/201611_asa_hawaii_risso/</guid>
       <description></description>
@@ -344,7 +344,7 @@ Towers, Scott Veirs, Ricard Marxer, Pascale Giraudet, James Pilkinton, Val Veirs
     <item>
       <title>Data-driven decomposition of ocean observatory echosounder time series for ecological insights</title>
       <link>https://leewujung.github.io/talk/201802_osm_ooi_nmf/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://leewujung.github.io/talk/201802_osm_ooi_nmf/</guid>
       <description></description>
@@ -353,7 +353,7 @@ Towers, Scott Veirs, Ricard Marxer, Pascale Giraudet, James Pilkinton, Val Veirs
     <item>
       <title>Exploring model sensitivity in Bayesian inversion of zooplankton sonar echoes</title>
       <link>https://leewujung.github.io/talk/201803_wgfast_seattle/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://leewujung.github.io/talk/201803_wgfast_seattle/</guid>
       <description></description>
