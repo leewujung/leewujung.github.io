@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EI Thorsos | WU-JUNG LEE @APL-UW</title>
+    <link>https://leewujung.github.io/authors/ei-thorsos/</link>
+      <atom:link href="https://leewujung.github.io/authors/ei-thorsos/index.xml" rel="self" type="application/rss+xml" />
+    <description>EI Thorsos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Sep 2018 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://leewujung.github.io/img/icon-192.png</url>
+      <title>EI Thorsos</title>
+      <link>https://leewujung.github.io/authors/ei-thorsos/</link>
+    </image>
+    
+    <item>
+      <title>Macroscopic observations of diel fish movements around a shallow water artificial reef using a mid-frequency horizontal-looking sonar</title>
+      <link>https://leewujung.github.io/publication/2018-lee-etal-jasa-trex-fish/</link>
+      <pubDate>Tue, 18 Sep 2018 09:00:00 +0000</pubDate>
+      <guid>https://leewujung.github.io/publication/2018-lee-etal-jasa-trex-fish/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

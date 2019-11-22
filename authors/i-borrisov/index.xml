@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I Borrisov | WU-JUNG LEE @APL-UW</title>
+    <link>https://leewujung.github.io/authors/i-borrisov/</link>
+      <atom:link href="https://leewujung.github.io/authors/i-borrisov/index.xml" rel="self" type="application/rss+xml" />
+    <description>I Borrisov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2015 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://leewujung.github.io/img/icon-192.png</url>
+      <title>I Borrisov</title>
+      <link>https://leewujung.github.io/authors/i-borrisov/</link>
+    </image>
+    
+    <item>
+      <title>Bats regulate biosonar based on the availability of visual information</title>
+      <link>https://leewujung.github.io/publication/2015-danilovich-etal-currbio-rousettus-light/</link>
+      <pubDate>Wed, 01 Jul 2015 09:00:00 +0000</pubDate>
+      <guid>https://leewujung.github.io/publication/2015-danilovich-etal-currbio-rousettus-light/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

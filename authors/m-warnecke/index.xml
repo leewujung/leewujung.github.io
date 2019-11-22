@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Warnecke | WU-JUNG LEE @APL-UW</title>
+    <link>https://leewujung.github.io/authors/m-warnecke/</link>
+      <atom:link href="https://leewujung.github.io/authors/m-warnecke/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Warnecke</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2016 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://leewujung.github.io/img/icon-192.png</url>
+      <title>M Warnecke</title>
+      <link>https://leewujung.github.io/authors/m-warnecke/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic echo information guides flight in the big brown bat</title>
+      <link>https://leewujung.github.io/publication/2016-warnecke-etal-frontier-echo-flow/</link>
+      <pubDate>Tue, 01 Mar 2016 09:00:00 +0000</pubDate>
+      <guid>https://leewujung.github.io/publication/2016-warnecke-etal-frontier-echo-flow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Wu-Jung Lee @APL-UW</title>
+    <title>Publication_types | WU-JUNG LEE @APL-UW</title>
     <link>https://leewujung.github.io/publication_types/</link>
-    <description>Recent content in Publication_types on Wu-Jung Lee @APL-UW</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2017 Wu-Jung Lee</copyright>
-    <lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://leewujung.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://leewujung.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Dec 2018 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://leewujung.github.io/img/icon-192.png</url>
+      <title>Publication_types</title>
+      <link>https://leewujung.github.io/publication_types/</link>
+    </image>
     
     <item>
       <title>2</title>
       <link>https://leewujung.github.io/publication_types/2/</link>
-      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
-      
+      <pubDate>Thu, 06 Dec 2018 09:00:00 +0000</pubDate>
       <guid>https://leewujung.github.io/publication_types/2/</guid>
       <description></description>
     </item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JA Arbour | WU-JUNG LEE @APL-UW</title>
+    <link>https://leewujung.github.io/authors/ja-arbour/</link>
+      <atom:link href="https://leewujung.github.io/authors/ja-arbour/index.xml" rel="self" type="application/rss+xml" />
+    <description>JA Arbour</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Dec 2017 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://leewujung.github.io/img/icon-192.png</url>
+      <title>JA Arbour</title>
+      <link>https://leewujung.github.io/authors/ja-arbour/</link>
+    </image>
+    
+    <item>
+      <title>Tongue-driven sonar beam steering by a lingual-echolocating fruit bat</title>
+      <link>https://leewujung.github.io/publication/2017-lee-etal-plosbio-rousettus-bp/</link>
+      <pubDate>Fri, 15 Dec 2017 09:00:00 +0000</pubDate>
+      <guid>https://leewujung.github.io/publication/2017-lee-etal-plosbio-rousettus-bp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

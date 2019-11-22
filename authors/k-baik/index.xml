@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K Baik | WU-JUNG LEE @APL-UW</title>
+    <link>https://leewujung.github.io/authors/k-baik/</link>
+      <atom:link href="https://leewujung.github.io/authors/k-baik/index.xml" rel="self" type="application/rss+xml" />
+    <description>K Baik</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Dec 2018 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://leewujung.github.io/img/icon-192.png</url>
+      <title>K Baik</title>
+      <link>https://leewujung.github.io/authors/k-baik/</link>
+    </image>
+    
+    <item>
+      <title>Echo statistics associated with discrete scatterers: A tutorial on physics-based methods</title>
+      <link>https://leewujung.github.io/publication/2018-stanton-etal-jasa-echo-stat-tutorial/</link>
+      <pubDate>Thu, 06 Dec 2018 09:00:00 +0000</pubDate>
+      <guid>https://leewujung.github.io/publication/2018-stanton-etal-jasa-echo-stat-tutorial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

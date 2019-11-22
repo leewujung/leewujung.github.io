@@ -1,492 +1,389 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/publication/2018-stanton-etal-jasa-echo-stat-tutorial/</loc>
-      <lastmod>2018-12-06T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/talk/202002_osm_echopype/</loc>
+    <lastmod>2020-02-21T11:45:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/2018/11/01/asa/caa-special-session-machine-learning-and-data-science-in-ocean-acoustics/</loc>
-      <lastmod>2018-11-01T00:00:00-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/talk/</loc>
+    <lastmod>2020-02-21T11:45:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/publication/2018-lee-etal-jasa-trex-fish/</loc>
-      <lastmod>2018-09-18T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/</loc>
+    <lastmod>2020-02-21T11:45:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/2018/07/30/watching-a-solar-eclipse-using-ooi-sonar/</loc>
-      <lastmod>2018-07-30T00:00:00-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/talk/201912_asa_sd_broadband_bayesian/</loc>
+    <lastmod>2019-12-04T10:00:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/2018/07/27/scooping-up-zooplankton-from-the-ocean/</loc>
-      <lastmod>2018-07-27T00:00:00-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/talk/201912_asa_sd_infotaxis/</loc>
+    <lastmod>2019-12-02T10:00:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/publication/2017-lee-etal-plosbio-rousettus-bp/</loc>
-      <lastmod>2017-12-15T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/talk/201911_uw_safs_quant_seminar/</loc>
+    <lastmod>2019-11-01T12:30:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/project/bat_beampattern/</loc>
-      <lastmod>2017-11-19T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/post/2019-10-23-first-jasa-tweetorial-on-echo-statistics/</loc>
+    <lastmod>2019-10-23T14:00:00-05:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/project/moth_echoes/</loc>
-      <lastmod>2017-11-19T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/post/</loc>
+    <lastmod>2019-10-23T14:00:00-05:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/talk/201903_uwin_seminar/</loc>
-      <lastmod>2017-11-01T00:00:00-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/talk/201907_scipy_echopype/</loc>
+    <lastmod>2019-07-12T16:30:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/talk/201811_asa_victoria_tensor/</loc>
-      <lastmod>2017-11-01T00:00:00-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/talk/201903_uwin_seminar/</loc>
+    <lastmod>2019-03-13T15:30:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/talk/201907_scipy_echopype/</loc>
-      <lastmod>2017-11-01T00:00:00-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/authors/w-j-lee/</loc>
+    <lastmod>2018-12-06T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/talk/201505_asa_slc_rousettus_bp/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/publication_types/2/</loc>
+    <lastmod>2018-12-06T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/talk/201611_asa_hawaii_risso/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/authors/</loc>
+    <lastmod>2018-12-06T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/talk/201802_osm_ooi_nmf/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/categories/</loc>
+    <lastmod>2018-12-06T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/talk/201803_wgfast_seattle/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/publication/2018-stanton-etal-jasa-echo-stat-tutorial/</loc>
+    <lastmod>2018-12-06T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/talk/201712_asa_nola_hunt/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/authors/k-baik/</loc>
+    <lastmod>2018-12-06T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/talk/201611_asa_hawaii_trex_fish/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/publication_types/</loc>
+    <lastmod>2018-12-06T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/talk/201805_uw_wildlife_seminar/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/publication/</loc>
+    <lastmod>2018-12-06T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/categories/sonar/</loc>
+    <lastmod>2018-12-06T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/authors/tk-stanton/</loc>
+    <lastmod>2018-12-06T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/talk/201811_asa_victoria_tensor/</loc>
+    <lastmod>2018-11-06T10:35:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/tags/asa/</loc>
+    <lastmod>2018-11-01T14:00:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/publication/2016-lee-moss-jasa-luna-moth/</loc>
-      <lastmod>2016-05-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/post/2018-11-01-asa_victoria_special-session/</loc>
+    <lastmod>2018-11-01T14:00:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/tags/caa/</loc>
+    <lastmod>2018-11-01T14:00:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/publication/2016-warnecke-etal-frontier-echo-flow/</loc>
-      <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/tags/data-science/</loc>
+    <lastmod>2018-11-01T14:00:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/publication/2015-lee-stanton-joe-broadband/</loc>
-      <lastmod>2015-12-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/tags/machine-learning/</loc>
+    <lastmod>2018-11-01T14:00:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/publication/2015-danilovich-etal-currbio-rousettus-light/</loc>
-      <lastmod>2015-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/tags/meeting/</loc>
+    <lastmod>2018-11-01T14:00:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/publication/2014-lee-stanton-joe-mixed/</loc>
-      <lastmod>2014-01-13T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/tags/ocean-acoustics/</loc>
+    <lastmod>2018-11-01T14:00:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/publication/2012-lee-etal-jasa-squid/</loc>
-      <lastmod>2012-06-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/tags/</loc>
+    <lastmod>2018-11-01T14:00:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/publication/2010-mooney-etal-squid-sedation/</loc>
-      <lastmod>2010-04-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/authors/dj-tang/</loc>
+    <lastmod>2018-09-18T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/publication/2010-au-etal-jasa-tursiops-suctioncup/</loc>
-      <lastmod>2010-03-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/authors/ei-thorsos/</loc>
+    <lastmod>2018-09-18T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/publication_types/2/</loc>
-      <lastmod>2018-12-06T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/publication/2018-lee-etal-jasa-trex-fish/</loc>
+    <lastmod>2018-09-18T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/tags/asa/</loc>
-      <lastmod>2018-11-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/tags/cruise/</loc>
+    <lastmod>2018-07-30T14:00:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/tags/bat/</loc>
-      <lastmod>2017-11-19T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/tags/echosounder/</loc>
+    <lastmod>2018-07-30T14:00:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/tags/beam-pattern/</loc>
-      <lastmod>2017-11-19T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/tags/eclipse/</loc>
+    <lastmod>2018-07-30T14:00:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/tags/biosonar/</loc>
-      <lastmod>2017-11-19T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/tags/ooi/</loc>
+    <lastmod>2018-07-30T14:00:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/tags/caa/</loc>
-      <lastmod>2018-11-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/post/2018-07-30-wacthing-eclipse-from-ooi-sonar/</loc>
+    <lastmod>2018-07-30T14:00:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/tags/zooplankton/</loc>
+    <lastmod>2018-07-30T14:00:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/tags/cruise/</loc>
-      <lastmod>2018-07-30T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/post/2018-07-25-scooping-up-zooplankton-from-the-ocean/</loc>
+    <lastmod>2018-07-27T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/tags/data-science/</loc>
-      <lastmod>2018-11-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/talk/201805_uw_wildlife_seminar/</loc>
+    <lastmod>2018-05-07T15:30:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/talk/201803_wgfast_seattle/</loc>
+    <lastmod>2018-03-21T12:00:00-08:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/tags/echosounder/</loc>
-      <lastmod>2018-07-30T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/talk/201802_osm_ooi_nmf/</loc>
+    <lastmod>2018-02-16T14:15:00-05:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/tags/eclipse/</loc>
-      <lastmod>2018-07-30T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/authors/a-krishnan/</loc>
+    <lastmod>2017-12-15T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/tags/machine-learning/</loc>
-      <lastmod>2018-11-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/authors/b-falk/</loc>
+    <lastmod>2017-12-15T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/tags/meeting/</loc>
-      <lastmod>2018-11-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/authors/c-chiu/</loc>
+    <lastmod>2017-12-15T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/tags/ocean-acoustics/</loc>
-      <lastmod>2018-11-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/authors/cf-moss/</loc>
+    <lastmod>2017-12-15T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/tags/ooi/</loc>
-      <lastmod>2018-07-30T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/categories/echolocation/</loc>
+    <lastmod>2017-12-15T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/project/</loc>
-      <lastmod>2017-11-19T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/authors/ja-arbour/</loc>
+    <lastmod>2017-12-15T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/publication_types/</loc>
-      <lastmod>2018-12-06T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/publication/2017-lee-etal-plosbio-rousettus-bp/</loc>
+    <lastmod>2017-12-15T09:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/talk/201712_asa_nola_ooi_nmf/</loc>
+    <lastmod>2017-12-08T09:45:00-05:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/talk/201712_asa_nola_hunt/</loc>
+    <lastmod>2017-12-06T13:15:00-05:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://leewujung.github.io/tags/zooplankton/</loc>
-      <lastmod>2018-07-30T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://leewujung.github.io/talk/201611_asa_hawaii_trex_fish/</loc>
+    <lastmod>2016-12-02T10:45:00-10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/talk/201611_asa_hawaii_risso/</loc>
+    <lastmod>2016-11-30T11:45:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/publication/2016-warnecke-etal-frontier-echo-flow/</loc>
+    <lastmod>2016-03-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/authors/m-warnecke/</loc>
+    <lastmod>2016-03-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/publication/2015-lee-stanton-joe-broadband/</loc>
+    <lastmod>2015-12-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/publication/2015-danilovich-etal-currbio-rousettus-light/</loc>
+    <lastmod>2015-07-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/authors/g-kosa/</loc>
+    <lastmod>2015-07-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/authors/i-borrisov/</loc>
+    <lastmod>2015-07-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/authors/o-eitan/</loc>
+    <lastmod>2015-07-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/authors/s-danilovich/</loc>
+    <lastmod>2015-07-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/authors/y-yovel/</loc>
+    <lastmod>2015-07-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/talk/201505_asa_slc_rousettus_bp/</loc>
+    <lastmod>2015-05-23T15:45:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/publication/2016-lee-moss-jasa-luna-moth/</loc>
+    <lastmod>2015-05-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/publication/2014-lee-stanton-joe-mixed/</loc>
+    <lastmod>2014-01-13T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/authors/ac-lavery/</loc>
+    <lastmod>2012-06-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/publication/2012-lee-etal-jasa-squid/</loc>
+    <lastmod>2012-06-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/publication/2010-mooney-etal-squid-sedation/</loc>
+    <lastmod>2010-04-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/authors/rt-hanlon/</loc>
+    <lastmod>2010-04-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/authors/ta-mooney/</loc>
+    <lastmod>2010-04-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/authors/ds-houser/</loc>
+    <lastmod>2010-03-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/authors/jj-finneran/</loc>
+    <lastmod>2010-03-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/authors/la-talmadge/</loc>
+    <lastmod>2010-03-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/authors/pw-moore/</loc>
+    <lastmod>2010-03-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/publication/2010-au-etal-jasa-tursiops-suctioncup/</loc>
+    <lastmod>2010-03-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/authors/wwl-au/</loc>
+    <lastmod>2010-03-01T09:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/authors/admin/</loc>
+  </url>
   
 </urlset>

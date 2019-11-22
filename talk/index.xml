@@ -1,22 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Presentations on Wu-Jung Lee @APL-UW</title>
+    <title>Recent &amp; Upcoming Talks | WU-JUNG LEE @APL-UW</title>
     <link>https://leewujung.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Presentations on Wu-Jung Lee @APL-UW</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2017 Wu-Jung Lee</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+      <atom:link href="https://leewujung.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Feb 2020 11:45:00 -0800</lastBuildDate>
+    <image>
+      <url>https://leewujung.github.io/img/icon-192.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://leewujung.github.io/talk/</link>
+    </image>
     
-	<atom:link href="https://leewujung.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Echopype: Interoperable and scalable processing of ocean sonar data</title>
+      <link>https://leewujung.github.io/talk/202002_osm_echopype/</link>
+      <pubDate>Fri, 21 Feb 2020 11:45:00 -0800</pubDate>
+      <guid>https://leewujung.github.io/talk/202002_osm_echopype/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>How much more informative are broadband compared to narrowband echoes for biological interpretation?</title>
+      <link>https://leewujung.github.io/talk/201912_asa_sd_broadband_bayesian/</link>
+      <pubDate>Wed, 04 Dec 2019 10:00:00 -0800</pubDate>
+      <guid>https://leewujung.github.io/talk/201912_asa_sd_broadband_bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active infotaxis as a model for echolocation</title>
+      <link>https://leewujung.github.io/talk/201912_asa_sd_infotaxis/</link>
+      <pubDate>Mon, 02 Dec 2019 10:00:00 -0800</pubDate>
+      <guid>https://leewujung.github.io/talk/201912_asa_sd_infotaxis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rising to the challenges of big acoustic data</title>
+      <link>https://leewujung.github.io/talk/201911_uw_safs_quant_seminar/</link>
+      <pubDate>Fri, 01 Nov 2019 12:30:00 -0800</pubDate>
+      <guid>https://leewujung.github.io/talk/201911_uw_safs_quant_seminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Echopype: Enhancing the interoperability and scalability of ocean sonar data processing for biological information</title>
+      <link>https://leewujung.github.io/talk/201907_scipy_echopype/</link>
+      <pubDate>Fri, 12 Jul 2019 16:30:00 +0000</pubDate>
+      <guid>https://leewujung.github.io/talk/201907_scipy_echopype/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dissecting the closed-loop feedback in animal echolocation</title>
       <link>https://leewujung.github.io/talk/201903_uwin_seminar/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0400</pubDate>
-      
+      <pubDate>Wed, 13 Mar 2019 15:30:00 -0800</pubDate>
       <guid>https://leewujung.github.io/talk/201903_uwin_seminar/</guid>
       <description></description>
     </item>
@@ -24,62 +63,47 @@
     <item>
       <title>Exploring matrix and tensor factorization for discovering latent structures in large echosounder data sets</title>
       <link>https://leewujung.github.io/talk/201811_asa_victoria_tensor/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0400</pubDate>
-      
+      <pubDate>Tue, 06 Nov 2018 10:35:00 -0800</pubDate>
       <guid>https://leewujung.github.io/talk/201811_asa_victoria_tensor/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>echopype: enhancing the interoperability and scalability of ocean sonar data processing for biological information,</title>
-      <link>https://leewujung.github.io/talk/201907_scipy_echopype/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://leewujung.github.io/talk/201907_scipy_echopype/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Asymmetric multi-frequency biosonar beam pattern of tongue-clicking bat, Rousettus aegyptiacus. </title>
-      <link>https://leewujung.github.io/talk/201505_asa_slc_rousettus_bp/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://leewujung.github.io/talk/201505_asa_slc_rousettus_bp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biosonar radiation field on the forehead of a Risso’s dolphin during prey capture</title>
-      <link>https://leewujung.github.io/talk/201611_asa_hawaii_risso/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://leewujung.github.io/talk/201611_asa_hawaii_risso/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data-driven decomposition of ocean observatory echosounder time series for ecological insights</title>
-      <link>https://leewujung.github.io/talk/201802_osm_ooi_nmf/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://leewujung.github.io/talk/201802_osm_ooi_nmf/</guid>
+      <title>Seeing through sound: the echolocation of bats</title>
+      <link>https://leewujung.github.io/talk/201805_uw_wildlife_seminar/</link>
+      <pubDate>Mon, 07 May 2018 15:30:00 -0800</pubDate>
+      <guid>https://leewujung.github.io/talk/201805_uw_wildlife_seminar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring model sensitivity in Bayesian inversion of zooplankton sonar echoes</title>
       <link>https://leewujung.github.io/talk/201803_wgfast_seattle/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
+      <pubDate>Wed, 21 Mar 2018 12:00:00 -0800</pubDate>
       <guid>https://leewujung.github.io/talk/201803_wgfast_seattle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-driven decomposition of ocean observatory echosounder time series for ecological insights</title>
+      <link>https://leewujung.github.io/talk/201802_osm_ooi_nmf/</link>
+      <pubDate>Fri, 16 Feb 2018 14:15:00 -0500</pubDate>
+      <guid>https://leewujung.github.io/talk/201802_osm_ooi_nmf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-driven decomposition of long-term echosounder time series from ocean observatories</title>
+      <link>https://leewujung.github.io/talk/201712_asa_nola_ooi_nmf/</link>
+      <pubDate>Fri, 08 Dec 2017 09:45:00 -0500</pubDate>
+      <guid>https://leewujung.github.io/talk/201712_asa_nola_ooi_nmf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>I wonder how animals can do it so well: An ongoing detour to build better sonar, enabled by the Hunt fellowship</title>
       <link>https://leewujung.github.io/talk/201712_asa_nola_hunt/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
+      <pubDate>Wed, 06 Dec 2017 13:15:00 -0500</pubDate>
       <guid>https://leewujung.github.io/talk/201712_asa_nola_hunt/</guid>
       <description></description>
     </item>
@@ -87,18 +111,24 @@
     <item>
       <title>Mid-frequency clutter and reverberation characteristics of fish in a shallow ocean waveguide</title>
       <link>https://leewujung.github.io/talk/201611_asa_hawaii_trex_fish/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
+      <pubDate>Fri, 02 Dec 2016 10:45:00 -1000</pubDate>
       <guid>https://leewujung.github.io/talk/201611_asa_hawaii_trex_fish/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Seeing through sound: the echolocation of bats</title>
-      <link>https://leewujung.github.io/talk/201805_uw_wildlife_seminar/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://leewujung.github.io/talk/201805_uw_wildlife_seminar/</guid>
+      <title>Biosonar radiation field on the forehead of a Risso’s dolphin during prey capture</title>
+      <link>https://leewujung.github.io/talk/201611_asa_hawaii_risso/</link>
+      <pubDate>Wed, 30 Nov 2016 11:45:00 -0800</pubDate>
+      <guid>https://leewujung.github.io/talk/201611_asa_hawaii_risso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymmetric multi-frequency biosonar beam pattern of tongue-clicking bat, Rousettus aegyptiacus</title>
+      <link>https://leewujung.github.io/talk/201505_asa_slc_rousettus_bp/</link>
+      <pubDate>Sat, 23 May 2015 15:45:00 -0700</pubDate>
+      <guid>https://leewujung.github.io/talk/201505_asa_slc_rousettus_bp/</guid>
       <description></description>
     </item>
     

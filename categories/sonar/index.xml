@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sonar | WU-JUNG LEE @APL-UW</title>
+    <link>https://leewujung.github.io/categories/sonar/</link>
+      <atom:link href="https://leewujung.github.io/categories/sonar/index.xml" rel="self" type="application/rss+xml" />
+    <description>sonar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Dec 2018 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://leewujung.github.io/img/icon-192.png</url>
+      <title>sonar</title>
+      <link>https://leewujung.github.io/categories/sonar/</link>
+    </image>
+    
+    <item>
+      <title>Echo statistics associated with discrete scatterers: A tutorial on physics-based methods</title>
+      <link>https://leewujung.github.io/publication/2018-stanton-etal-jasa-echo-stat-tutorial/</link>
+      <pubDate>Thu, 06 Dec 2018 09:00:00 +0000</pubDate>
+      <guid>https://leewujung.github.io/publication/2018-stanton-etal-jasa-echo-stat-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macroscopic observations of diel fish movements around a shallow water artificial reef using a mid-frequency horizontal-looking sonar</title>
+      <link>https://leewujung.github.io/publication/2018-lee-etal-jasa-trex-fish/</link>
+      <pubDate>Tue, 18 Sep 2018 09:00:00 +0000</pubDate>
+      <guid>https://leewujung.github.io/publication/2018-lee-etal-jasa-trex-fish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics of broadband echoes: application to acoustic estimates of numerical density of fish</title>
+      <link>https://leewujung.github.io/publication/2015-lee-stanton-joe-broadband/</link>
+      <pubDate>Tue, 01 Dec 2015 09:00:00 +0000</pubDate>
+      <guid>https://leewujung.github.io/publication/2015-lee-stanton-joe-broadband/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics of echoes from mixed assemblages of scatterers with different scattering amplitudes and numerical densities</title>
+      <link>https://leewujung.github.io/publication/2014-lee-stanton-joe-mixed/</link>
+      <pubDate>Mon, 13 Jan 2014 09:00:00 +0000</pubDate>
+      <guid>https://leewujung.github.io/publication/2014-lee-stanton-joe-mixed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orientation dependence of broadband acoustic backscattering from live squid</title>
+      <link>https://leewujung.github.io/publication/2012-lee-etal-jasa-squid/</link>
+      <pubDate>Fri, 01 Jun 2012 09:00:00 +0000</pubDate>
+      <guid>https://leewujung.github.io/publication/2012-lee-etal-jasa-squid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-duration anesthetization of squid (Doryteuthis pealeii)</title>
+      <link>https://leewujung.github.io/publication/2010-mooney-etal-squid-sedation/</link>
+      <pubDate>Thu, 01 Apr 2010 09:00:00 +0000</pubDate>
+      <guid>https://leewujung.github.io/publication/2010-mooney-etal-squid-sedation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
