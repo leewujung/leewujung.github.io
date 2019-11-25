@@ -209,16 +209,16 @@
       <link>https://leewujung.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://leewujung.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I integrate interdisciplinary skills in acoustics, signal processing, and biology to develop both physics-based models and data-driven methods to better observe the rapidly-changing ocean using sound.&lt;/p&gt;
-
-&lt;p&gt;My research focuses on two fundamental aspects of achieving high confidence acoustic sensing:&lt;/p&gt;
+      <description>&lt;p&gt;Sound is the best information carrier in the ocean. Working at the intersection of physics, engineering and biology, I develop computational methodologies and interpretation frameworks to extract and exploit information from ocean acoustic data spanning multiple spatial and temporal scales. My goal is to use this information to uncover functional relationships at mid to high trophic levels in the marine ecosystems. My current research focuses on integrating physics-based models and data-driven methods to address two fundamental aspects of acoustic sensing:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Sampling&lt;/strong&gt; – what can we do to collect better information?&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Inference&lt;/strong&gt; – how do we make reliable interpretation of echo information?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sampling&lt;/strong&gt; – how do we collect better data?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inference&lt;/strong&gt; – what can we learn from the data?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Under these overarching themes, I am working to expand sonar sensing capability for marine ecosystem monitoring at large temporal and spatial scales. I also use echolocating animals as biological models to inspire adaptive sampling strategies in the context of acoustic sensing. I am an active contributor to open-source community-driven software tools, and am a strong advocate for reproducible research and best practices in ocean sciences and acoustics.&lt;/p&gt;
+&lt;p&gt;A parallel but closely related focus of my research involves using echolocating animals, such as bats and toothed whales, as biological models to inspire adaptive sensing strategies for autonomous distributed ocean monitoring.&lt;/p&gt;
+
+&lt;p&gt;My research program is generously funded by the National Science Foundation, the Office of Naval Research, and the National Oceanic and Atmospheric Administration.&lt;/p&gt;
 </description>
     </item>
     
