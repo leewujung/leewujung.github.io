@@ -17,75 +17,44 @@
       <link>https://leewujung.github.io/post/2018-11-01-asa_victoria_special-session/</link>
       <pubDate>Thu, 01 Nov 2018 14:00:00 -0800</pubDate>
       <guid>https://leewujung.github.io/post/2018-11-01-asa_victoria_special-session/</guid>
-      <description>&lt;p&gt;As nerve-racking as it is to count down on the time to finish my talk, I am super excited for the joint ASA/CAA meeting next week in Victoria, BC. In addition to giving a talk on &lt;a href=&#34;https://asa.scitation.org/doi/10.1121/1.5067736&#34; target=&#34;_blank&#34;&gt;mining large echosounder data sets&lt;/a&gt;, I will be co-chairing a special session &lt;strong&gt;2aAO+2pAO: Machine Learning and Data Science Approaches in Ocean Acoustics&lt;/strong&gt; on Tuesday Nov 6. The session is co-sponsored by multiple &lt;a href=&#34;https://exploresound.org/explore-sound-home/asa-community/technical-committees/&#34; target=&#34;_blank&#34;&gt;technical committees&lt;/a&gt; and follows immediately from the more general &lt;strong&gt;1aSP+1pSP: Machine Learning for Acoustic Applications&lt;/strong&gt; on Monday.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;d like to highlight the &lt;strong&gt;data science&lt;/strong&gt; bit in my session, since machine learning is everywhere you turn your head now and there&amp;rsquo;s no need to pitch for it. I threw in that term in an &lt;em&gt;very inaccurate&lt;/em&gt; way, because I hoped, and still hope, that the session can be a little more than just the research topics themselves, and will include discussions on the associated computational environments, human environments (the community), community-driven tools (ocean acoustics actually has a traditional on this &amp;ndash; perhaps a separate post 🙃), and reproducible practice that can help move things faster. This is part of the reason why I was spent so much time in making &lt;a href=&#34;https://oceanhackweek.github.io&#34; target=&#34;_blank&#34;&gt;Oceanhackweek&lt;/a&gt; happen this year: I wish I had known a lot of these things much earlier, before/when I was a grad student; this is now the time to change things.&lt;/p&gt;
-
-&lt;p&gt;Ok, this post is now very long-winded&amp;hellip; I&amp;rsquo;d like to bring your attention to the last talk of the session: &lt;a href=&#34;https://asa.scitation.org/doi/abs/10.1121/1.5067861&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;2pAO8: Toward scalable, reproducible, and open ocean acoustic research&lt;/strong&gt;&lt;/a&gt;. &lt;a href=&#34;https://escience.washington.edu/people/valentina-staneva/&#34; target=&#34;_blank&#34;&gt;Valentina Staneva&lt;/a&gt; kindly agreed to share her expertise and thoughts on these topics. I very much look forward to the talk and hope you are too!&lt;/p&gt;
-
-&lt;p&gt;Lastly, since there&amp;rsquo;s no easy way to get a list of all the talks in the special session without going down the &lt;a href=&#34;https://ep70.eventpilotadmin.com/web/planner.php?id=ASAFALL18&#34; target=&#34;_blank&#34;&gt;rabbit hole&lt;/a&gt; and digging through the &lt;a href=&#34;https://acousticalsociety.org/program-of-176th-meeting-of-the-acoustical-society-of-america/&#34; target=&#34;_blank&#34;&gt;pdf abstracts&lt;/a&gt;, here is a list of all of them:&lt;/p&gt;
-
-&lt;hr /&gt;
-
+      <description>&lt;p&gt;As nerve-racking as it is to count down on the time to finish my talk, I am super excited for the joint ASA/CAA meeting next week in Victoria, BC. In addition to giving a talk on &lt;a href=&#34;https://asa.scitation.org/doi/10.1121/1.5067736&#34;&gt;mining large echosounder data sets&lt;/a&gt;, I will be co-chairing a special session &lt;strong&gt;2aAO+2pAO: Machine Learning and Data Science Approaches in Ocean Acoustics&lt;/strong&gt; on Tuesday Nov 6. The session is co-sponsored by multiple &lt;a href=&#34;https://exploresound.org/explore-sound-home/asa-community/technical-committees/&#34;&gt;technical committees&lt;/a&gt; and follows immediately from the more general &lt;strong&gt;1aSP+1pSP: Machine Learning for Acoustic Applications&lt;/strong&gt; on Monday.&lt;/p&gt;
+&lt;p&gt;I&#39;d like to highlight the &lt;strong&gt;data science&lt;/strong&gt; bit in my session, since machine learning is everywhere you turn your head now and there&#39;s no need to pitch for it. I threw in that term in an &lt;em&gt;very inaccurate&lt;/em&gt; way, because I hoped, and still hope, that the session can be a little more than just the research topics themselves, and will include discussions on the associated computational environments, human environments (the community), community-driven tools (ocean acoustics actually has a traditional on this &amp;ndash; perhaps a separate post 🙃), and reproducible practice that can help move things faster. This is part of the reason why I was spent so much time in making &lt;a href=&#34;https://oceanhackweek.github.io&#34;&gt;Oceanhackweek&lt;/a&gt; happen this year: I wish I had known a lot of these things much earlier, before/when I was a grad student; this is now the time to change things.&lt;/p&gt;
+&lt;p&gt;Ok, this post is now very long-winded&amp;hellip; I&#39;d like to bring your attention to the last talk of the session: &lt;a href=&#34;https://asa.scitation.org/doi/abs/10.1121/1.5067861&#34;&gt;&lt;strong&gt;2pAO8: Toward scalable, reproducible, and open ocean acoustic research&lt;/strong&gt;&lt;/a&gt;. &lt;a href=&#34;https://escience.washington.edu/people/valentina-staneva/&#34;&gt;Valentina Staneva&lt;/a&gt; kindly agreed to share her expertise and thoughts on these topics. I very much look forward to the talk and hope you are too!&lt;/p&gt;
+&lt;p&gt;Lastly, since there&#39;s no easy way to get a list of all the talks in the special session without going down the &lt;a href=&#34;https://ep70.eventpilotadmin.com/web/planner.php?id=ASAFALL18&#34;&gt;rabbit hole&lt;/a&gt; and digging through the &lt;a href=&#34;https://acousticalsociety.org/program-of-176th-meeting-of-the-acoustical-society-of-america/&#34;&gt;pdf abstracts&lt;/a&gt;, here is a list of all of them:&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Tuesday morning 2aAO session&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;p&gt;8:00. 2aAO1. &lt;em&gt;Data-driven discovery of dynamics for control.&lt;/em&gt; Sam Rudy and Steven Brunton.&lt;/p&gt;
-
 &lt;p&gt;8:20. 2aAO2. &lt;em&gt;Machine learning applied to broadband sound propagation on the New England Shelf.&lt;/em&gt; David P. Knobles, Preston S. Wilson, and Mohsen Badiey.&lt;/p&gt;
-
 &lt;p&gt;8:40. 2aAO3. &lt;em&gt;Estimation of the acoustic environment through machine learning techniques.&lt;/em&gt; Oscar A. Viquez, Erin M. Fischell, and Henrik
 Schmidt.&lt;/p&gt;
-
 &lt;p&gt;9:00. 2aAO4. &lt;em&gt;Ocean acoustic range estimation in noisy environments using convolutional networks.&lt;/em&gt; Emma Reeves Ozanich, Peter Gerstoft, Akshaya
 Purohit, and Haiqiang Niu.&lt;/p&gt;
-
 &lt;p&gt;9:20. 2aAO5. &lt;em&gt;Classification of multiple source depths in a time-varying ocean environment using a convolutional neural network (CNN).&lt;/em&gt; Hee-Chun Song.&lt;/p&gt;
-
 &lt;p&gt;9:35. 2aAO6. &lt;em&gt;Estimating the probability density function of transmission loss in an uncertain ocean using machine learning.&lt;/em&gt; Brandon M. Lee and
 David R. Dowling.&lt;/p&gt;
-
 &lt;p&gt;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; 9:50–10:05 Break &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&lt;/p&gt;
-
 &lt;p&gt;10:05. 2aAO7. &lt;em&gt;Using machine learning in ocean noise analysis during marine seismic reflection surveys.&lt;/em&gt; Shima Abadi.&lt;/p&gt;
-
 &lt;p&gt;10:20. 2aAO8. &lt;em&gt;Underwater acoustic target recognition using graph convolutional neural networks.&lt;/em&gt; Razi Sabara and Sergio Jesus.&lt;/p&gt;
-
 &lt;p&gt;10:35. 2aAO9. &lt;em&gt;Exploring matrix and tensor factorization for discovering latent structures in large echosounder datasets.&lt;/em&gt; Wu-Jung Lee and Valentina Staneva.&lt;/p&gt;
-
 &lt;p&gt;10:50. 2aAO10. &lt;em&gt;Navigating noise when comparing satellite and acoustic remote sensing data.&lt;/em&gt; Carrie C. Wall, Kristopher Karnauskas, Maxwell B.
 Joseph, Joseph McGlinchy, and Brian R. Johnson.&lt;/p&gt;
-
 &lt;p&gt;11:05. 2aAO11. &lt;em&gt;Data assimilation for oceanographic and acoustic forecasting.&lt;/em&gt; EeShan C. Bhatt and Henrik Schmidt.&lt;/p&gt;
-
 &lt;p&gt;11:20. 2aAO12. &lt;em&gt;Source localization using a compact tetrahedral array.&lt;/em&gt; James Miller, Gopu R. Potty, Aditi Tripathy,
 Makio Tazawa, Jennifer
 Amaral, Kathleen J. Vigness-Raposa, Ying-Tsong Lin, and Arthur Newhall.&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Tuesday afternoon 2pAO session&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;p&gt;1:00. 2pAO1. &lt;em&gt;Orcasound app: An open-source solution for streaming live ocean sound to citizen scientists and cloud-based algorithms.&lt;/em&gt; Scott Veirs, Val Veirs, Paul Cretu, Steve Hicks, and Skander Mzali.&lt;/p&gt;
-
 &lt;p&gt;1:20. 2pAO2. &lt;em&gt;Deep learning for ethoacoustical mapping: Application to a single Cachalot long term recording on joint observatories in Vancouver Island.&lt;/em&gt; Herve Glotin, Paul Spong, Helena Symonds, Vincent Roger, Randall Balestriero, Maxence Ferrari, Marion Poupard, Jared
 Towers, Scott Veirs, Ricard Marxer, Pascale Giraudet, James Pilkinton, Val Veirs, Jason Wood, John Ford, and Thomas Dakin.&lt;/p&gt;
-
 &lt;p&gt;1:40. 2pAO3. &lt;em&gt;Applying machine-learning based source separation techniques in the analysis of marine soundscapes.&lt;/em&gt; Tzu-Hao Lin, Tomonari Akamatsu, and Katsunori Fujikura.&lt;/p&gt;
-
 &lt;p&gt;2:00. 2pAO4. &lt;em&gt;Identification of fish species in estuaries and rivers using recorded soundscape with supervised machine learning.&lt;/em&gt; Mohsen Badiey and Javier Garcia-Frias.&lt;/p&gt;
-
 &lt;p&gt;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash; 2:20–2:35 Break &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&lt;/p&gt;
-
 &lt;p&gt;2:35. 2pAO5. &lt;em&gt;Temporal patterns in Pacific white-sided dolphin communication at Barkley Canyon, with implications for multiple populations.&lt;/em&gt; Kristen S. Kanes, Stan E. Dosso, Tania L. Insua, and Xavier Mouy.&lt;/p&gt;
-
 &lt;p&gt;2:50. 2pAO6. &lt;em&gt;Towards the topology of autoencoder of calls versus clicks of marine mammal.&lt;/em&gt; Vincent Roger, Maxence Ferrari, Ricard Marxer, Faicel Chamroukhi, and Herve Glotin.&lt;/p&gt;
-
 &lt;p&gt;3:05. 2pAO7. PyEcholab: An open-source, python-based toolkit to analyze water-column echosounder data. Carrie C. Wall, Rick Towler, Charles Anderson, , Randy Cutter, and J. Michael Jech.&lt;/p&gt;
-
 &lt;p&gt;3:20. 2pAO8. &lt;em&gt;Toward scalable, reproducible, and open ocean acoustic research.&lt;/em&gt; Valentina Staneva, Amanda Tan, Divya Panicker, and Wu-Jung Lee.&lt;/p&gt;
 </description>
     </item>

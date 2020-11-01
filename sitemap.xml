@@ -3,17 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://leewujung.github.io/software/echopype/</loc>
+    <lastmod>2020-11-01T14:50:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/tags/echosounder/</loc>
+    <lastmod>2020-11-01T14:50:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/tags/open-source/</loc>
+    <lastmod>2020-11-01T14:50:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/tags/python/</loc>
+    <lastmod>2020-11-01T14:50:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/software/</loc>
+    <lastmod>2020-11-01T14:50:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/tags/sonar/</loc>
+    <lastmod>2020-11-01T14:50:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/tags/</loc>
+    <lastmod>2020-11-01T14:50:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/</loc>
+    <lastmod>2020-11-01T14:50:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://leewujung.github.io/talk/202002_osm_echopype/</loc>
     <lastmod>2020-02-21T11:45:00-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://leewujung.github.io/talk/</loc>
-    <lastmod>2020-02-21T11:45:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leewujung.github.io/</loc>
     <lastmod>2020-02-21T11:45:00-08:00</lastmod>
   </url>
   
@@ -50,6 +85,16 @@
   <url>
     <loc>https://leewujung.github.io/talk/201903_uwin_seminar/</loc>
     <lastmod>2019-03-13T15:30:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/software/echo-stat-tutorial/</loc>
+    <lastmod>2019-01-04T17:02:36-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leewujung.github.io/tags/matlab/</loc>
+    <lastmod>2019-01-04T17:02:36-08:00</lastmod>
   </url>
   
   <url>
@@ -143,11 +188,6 @@
   </url>
   
   <url>
-    <loc>https://leewujung.github.io/tags/</loc>
-    <lastmod>2018-11-01T14:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://leewujung.github.io/authors/dj-tang/</loc>
     <lastmod>2018-09-18T09:00:00+00:00</lastmod>
   </url>
@@ -164,11 +204,6 @@
   
   <url>
     <loc>https://leewujung.github.io/tags/cruise/</loc>
-    <lastmod>2018-07-30T14:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leewujung.github.io/tags/echosounder/</loc>
     <lastmod>2018-07-30T14:00:00-08:00</lastmod>
   </url>
   
@@ -194,7 +229,7 @@
   
   <url>
     <loc>https://leewujung.github.io/post/2018-07-25-scooping-up-zooplankton-from-the-ocean/</loc>
-    <lastmod>2018-07-27T00:00:00-04:00</lastmod>
+    <lastmod>2018-07-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
