@@ -5,12 +5,20 @@
     <link>https://leewujung.github.io/categories/sonar/</link>
       <atom:link href="https://leewujung.github.io/categories/sonar/index.xml" rel="self" type="application/rss+xml" />
     <description>sonar</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Dec 2018 09:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Nov 2020 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://leewujung.github.io/img/icon-192.png</url>
       <title>sonar</title>
       <link>https://leewujung.github.io/categories/sonar/</link>
     </image>
+    
+    <item>
+      <title>Compact representation of temporal processes in echosounder time series via matrix decomposition</title>
+      <link>https://leewujung.github.io/publication/2020-lee-staneva-jasa-tsnmf/</link>
+      <pubDate>Mon, 30 Nov 2020 09:00:00 +0000</pubDate>
+      <guid>https://leewujung.github.io/publication/2020-lee-staneva-jasa-tsnmf/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Echo statistics associated with discrete scatterers: A tutorial on physics-based methods</title>

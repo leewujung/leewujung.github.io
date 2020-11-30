@@ -5,7 +5,7 @@
     <link>https://leewujung.github.io/authors/</link>
       <atom:link href="https://leewujung.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Dec 2018 09:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 30 Nov 2020 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://leewujung.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,16 @@
     <item>
       <title>**W-J Lee**</title>
       <link>https://leewujung.github.io/authors/w-j-lee/</link>
-      <pubDate>Thu, 06 Dec 2018 09:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Nov 2020 09:00:00 +0000</pubDate>
       <guid>https://leewujung.github.io/authors/w-j-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valentina Staneva</title>
+      <link>https://leewujung.github.io/authors/valentina-staneva/</link>
+      <pubDate>Mon, 30 Nov 2020 09:00:00 +0000</pubDate>
+      <guid>https://leewujung.github.io/authors/valentina-staneva/</guid>
       <description></description>
     </item>
     
