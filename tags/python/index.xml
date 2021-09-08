@@ -20,7 +20,7 @@
       <description>&lt;p&gt;&lt;strong&gt;&lt;code&gt;Echopype&lt;/code&gt;&lt;/strong&gt; is an open-source Python package aimed at
 &lt;a href=&#34;https://echopype.readthedocs.io/en/latest/why.html&#34;&gt;enhancing the interoperability and scalability&lt;/a&gt;
 in processing ocean sonar data for biological information.&lt;/p&gt;
-&lt;p&gt;I started building this package in early 2018 when I couldn&#39;t find an affordable tool that
+&lt;p&gt;I started building this package in early 2018 when I couldn&amp;rsquo;t find an affordable tool that
 allow easy access and manipulation of echosounder data collected by
 different sonar models.&lt;/p&gt;
 &lt;p&gt;For the latest updates, check out our repo at: &lt;a href=&#34;https://github.com/OSOceanAcoustics/echopype&#34;&gt;https://github.com/OSOceanAcoustics/echopype&lt;/a&gt;.&lt;/p&gt;

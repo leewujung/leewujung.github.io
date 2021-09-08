@@ -12,29 +12,5 @@
       <link>https://leewujung.github.io/categories/</link>
     </image>
     
-    <item>
-      <title>machine learning</title>
-      <link>https://leewujung.github.io/categories/machine-learning/</link>
-      <pubDate>Mon, 30 Nov 2020 09:00:00 +0000</pubDate>
-      <guid>https://leewujung.github.io/categories/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sonar</title>
-      <link>https://leewujung.github.io/categories/sonar/</link>
-      <pubDate>Mon, 30 Nov 2020 09:00:00 +0000</pubDate>
-      <guid>https://leewujung.github.io/categories/sonar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>echolocation</title>
-      <link>https://leewujung.github.io/categories/echolocation/</link>
-      <pubDate>Fri, 15 Dec 2017 09:00:00 +0000</pubDate>
-      <guid>https://leewujung.github.io/categories/echolocation/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
